@@ -12,3 +12,11 @@ ROC curves for all models
 Full results dashboard
 Step 6 — GitHub — auto-creates README.md, requirements.txt, and .gitignore, then prints the exact git commands to push. Includes a one-click auto-push cell too.
 Step 7 — Share link — includes the formatted template to paste in your group.
+
+1 Class Distribution (Bar + Pie)
+2 Model Accuracy Comparison
+3 Feature Importance (Top 10)
+4 ROC Curves (AUC scores)
+5 Radar Chart (multi-metric)
+6 Training Time
+7 Full Dashboard
